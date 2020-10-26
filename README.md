@@ -13,3 +13,4 @@ To install a specific beta version, use these settings:
 - Port: 443
 - Secure connection: Yes
   
+To back to stable versions, remove Custom server for updates or change it to your custom server.
