@@ -9,7 +9,7 @@ To use beta versions, use these settings:
 - Secure connection: Yes
 
 To install a specific beta version, use these settings:
-- Custom server for updates: github.com/RavenSystem/haabeta/releases/download/<version>
+- Custom server for updates: github.com/RavenSystem/haabeta/releases/download/\<version\>
 - Port: 443
 - Secure connection: Yes
   
