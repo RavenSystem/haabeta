@@ -13,6 +13,6 @@ To install a specific beta version, use these settings:
 - Port: `443`
 - Secure connection: `Yes`
 
-Where `<version>` is number in format `a.b.c` + `bN`. For example: `10.0.0b2`
+Where `<version>` is number in format `a.b.c` + `bN` or `a.b.c` + `rcN`. For example: `9.5.1b3` or `10.0.0rc1`
   
 To back to stable versions, remove Custom server for updates or change it to your custom server.
